@@ -1,0 +1,3 @@
+k3518003 | amir | solo 
+k3518002 | budi | semarang 
+k3518001 | cici | jakarta 
